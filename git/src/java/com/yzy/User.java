@@ -6,4 +6,6 @@ public class User {
     private String password;
 
     private int age;
+
+    private int money;
 }
